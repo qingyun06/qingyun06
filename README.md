@@ -1,4 +1,4 @@
-## Hi there 👋
+## hello there friends :)
 
 <!--
 **qingyun06/qingyun06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+about me: 
+- university of waterloo bachelor of computer science '29
+- python, java, javascript, racket
+- cat enthusiast 
