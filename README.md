@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 
 about me: 
 - university of waterloo bachelor of computer science '29
-- python, java, javascript, racket
 - cat enthusiast 
